@@ -1,4 +1,4 @@
-baseURL = "www.n4h.party"
+baseURL = "https://www.n4h.party"
 languageCode = "zh-cn"
 title = "N4H"
 theme = "hermit"
