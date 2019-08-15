@@ -12,5 +12,7 @@ deploy:
   local_dir: public
   target_branch: master
   github_token: $GITHUB_TOKEN
+  keep_history: true
+  fqdn: www.n4h.party
   on:
     branch: source
