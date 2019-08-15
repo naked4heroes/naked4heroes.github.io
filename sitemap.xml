@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.n4h.party/about/</loc>
+    <lastmod>2019-08-16T02:30:50+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.n4h.party/</loc>
+    <lastmod>2019-08-16T02:30:50+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.n4h.party/posts/begin/</loc>
+    <lastmod>2019-08-16T02:30:34+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.n4h.party/posts/</loc>
+    <lastmod>2019-08-16T02:30:34+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.n4h.party/tags/</loc>
     <lastmod>2019-08-16T02:30:34+08:00</lastmod>
   </url>
@@ -14,10 +34,6 @@
   
   <url>
     <loc>https://www.n4h.party/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.n4h.party/</loc>
   </url>
   
 </urlset>
