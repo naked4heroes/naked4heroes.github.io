@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.n4h.party/categories/</loc>
+    <loc>http://www.n4h.party/post/hello/</loc>
+    <lastmod>2019-08-15T18:29:04+08:00</lastmod>
   </url>
   
   <url>
     <loc>http://www.n4h.party/</loc>
+    <lastmod>2019-08-15T18:29:04+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.n4h.party/post/</loc>
+    <lastmod>2019-08-15T18:29:04+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.n4h.party/categories/</loc>
   </url>
   
   <url>
