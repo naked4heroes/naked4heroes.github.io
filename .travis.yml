@@ -8,7 +8,7 @@ script:
 
 deploy:
   provider: pages
-  skip-cleaup: true
+  skip_cleaup: true
   local_dir: public
   github-token: $GITHUB_TOKEN
   keep_history: true
