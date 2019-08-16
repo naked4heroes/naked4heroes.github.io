@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on N4H</title>
+    <link>https://www.n4h.party/post/</link>
+    <description>Recent content in Posts on N4H</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 16 Aug 2019 23:38:35 +0800</lastBuildDate>
+    
+	<atom:link href="https://www.n4h.party/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>我不在乎</title>
+      <link>https://www.n4h.party/post/xxx/</link>
+      <pubDate>Fri, 16 Aug 2019 23:38:35 +0800</pubDate>
+      
+      <guid>https://www.n4h.party/post/xxx/</guid>
+      <description>#我不在乎 其实我也不知道为啥要起这个标题。 看过《开始》也许对我们能有个了解，但实际上很可能这些东西全是写给我们N4H自己看的，所以我只是对自</description>
+    </item>
+    
+  </channel>
+</rss>
