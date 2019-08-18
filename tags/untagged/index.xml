@@ -6,10 +6,19 @@
     <description>Recent content in untagged on N4H</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 16 Aug 2019 23:38:35 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 17 Aug 2019 21:41:34 +0900</lastBuildDate>
     
 	<atom:link href="https://www.n4h.party/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>#1</title>
+      <link>https://www.n4h.party/posts/1#/</link>
+      <pubDate>Sat, 17 Aug 2019 21:41:34 +0900</pubDate>
+      
+      <guid>https://www.n4h.party/posts/1#/</guid>
+      <description>去年大概秋冬的时候，也曾有过一念重新开始博客的想法。看了看服务器，整了整GitHub什么，但不知道为何又被抛到脑后，如果硬要找原因，我认为是</description>
+    </item>
     
     <item>
       <title>我不在乎</title>
