@@ -6,10 +6,19 @@
     <description>Recent content on N4H</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 23 Aug 2019 23:34:49 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2019 20:43:19 +0800</lastBuildDate>
     
 	<atom:link href="https://www.n4h.party/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>关于写作</title>
+      <link>https://www.n4h.party/posts/about-writing/</link>
+      <pubDate>Mon, 26 Aug 2019 20:43:19 +0800</pubDate>
+      
+      <guid>https://www.n4h.party/posts/about-writing/</guid>
+      <description>写作对我来说是一件很困难的事情。 离开高中校园后的写作对我来说无外乎就是论文。我写论文也比较糊弄事，基本都是有的没的都往上堆，不管逻辑通顺总之</description>
+    </item>
     
     <item>
       <title>#2 关于家和暑假</title>
