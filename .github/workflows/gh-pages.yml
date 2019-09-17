@@ -13,7 +13,7 @@ jobs:
     
     - name: git Actions
       uses: srt32/git-actions@v0.0.3
-      run: git submodule update --init --recursive
+      git command: git submodule update --init --recursive
 
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2.0.0
