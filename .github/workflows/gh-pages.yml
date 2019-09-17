@@ -23,7 +23,7 @@ jobs:
       run: hugo --gc --minify --cleanDestinationDir
 
     - name: Deploy
-      uses: igaryhe/actions-gh-pages@master
+      uses: peaceiris/actions-gh-pages@master
       env:
         ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
         PUBLISH_BRANCH: master
