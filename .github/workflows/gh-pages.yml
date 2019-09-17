@@ -10,6 +10,10 @@ jobs:
     runs-on: ubuntu-18.04
     steps:
     - uses: actions/checkout@master
+    
+    - name: git Actions
+      uses: srt32/git-actions@v0.0.3
+      args: git submodule update --init --recursive
 
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2.0.0
@@ -17,7 +21,7 @@ jobs:
         hugo-version: 'latest'
 
     - name: Build
-      run: hugo --gc
+      run: hugo --gc --minify --cleanDestinationDir
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v2.3.1
