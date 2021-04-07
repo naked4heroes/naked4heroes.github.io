@@ -1,6 +1,6 @@
 ---
 title: "在一罐盐工作工资发放形式修改有感"
-date: 
+date: 2021-04-03
 draft: false
 toc: false
 author: "Kiro"
