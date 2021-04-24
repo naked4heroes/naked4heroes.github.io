@@ -9,3 +9,8 @@ images:
 N4H 的全称是 Naked 4 Heroes（因为我们是四个人）。名字的来源太傻逼了就不在这里详细说明了。
 # Party
 Roll 点决定的。
+# 成员
+何知闲 -- Dan
+张伟杰 -- Kiro
+颜律诚 -- RomanceCar
+厉浩文 -- Lee
