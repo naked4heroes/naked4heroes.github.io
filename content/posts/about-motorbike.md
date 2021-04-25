@@ -1,7 +1,7 @@
 ---
 title: "从摩托车到人类劣根性的思考"
 date: 2021-04-25T02:48:12+09:00
-draft: true
+draft: false
 toc: false
 author: "Lee"
 tags:
